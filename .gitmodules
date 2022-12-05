@@ -1,0 +1,3 @@
+[submodule "react-router-dog-finder"]
+	path = react-router-dog-finder
+	url = ./react-router-dog-finder
